@@ -85,6 +85,7 @@ Ensure full compliance with PCI DSS and GDPR
 The audit revealed that Botium Toys has significant gaps in both technical and administrative security controls. While some basic protections exist, the organization must implement stronger security practices to protect sensitive data and maintain compliance with industry standards.
 
 🔹 10. Skills Demonstrated
+
 Risk assessment
 Security auditing
 Understanding of NIST CSF
